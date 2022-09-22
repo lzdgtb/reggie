@@ -11,7 +11,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupp
 import java.util.List;
 
 /**
- * @描述
+ * @描述 过滤器过滤拦截资源
  * @作者 黎亮
  * @创建时间 2022/9/15
  */
