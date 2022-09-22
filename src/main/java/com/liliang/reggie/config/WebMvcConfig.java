@@ -31,7 +31,7 @@ public class WebMvcConfig extends WebMvcConfigurationSupport {
         registry.addResourceHandler("/backend/**").addResourceLocations("classpath:/backend/");
         registry.addResourceHandler("/front/**").addResourceLocations("classpath:/front/");
     }
-    //
+    //测试忽略文件
     /**
      * @Author 黎亮
      * @Description  扩展mvc框架的消息转换器，把long的数据转化为json
